@@ -32,9 +32,10 @@
 
 .button{
     height: 80%;
+    min-width: 125px;
     width: 15%;
     border: solid black;
-    border-radius: 1500px;
+    border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -47,7 +48,6 @@
     border: solid black;
     border-radius: 10px;
     width: 100%; 
-    overflow: hidden;
     overflow-y: auto;
 }
 
