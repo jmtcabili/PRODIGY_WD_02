@@ -1,4 +1,6 @@
 
+//code referenced from geeksforgeeks: https://www.geeksforgeeks.org/how-to-create-stopwatch-using-html-css-and-javascript/
+
 document.addEventListener("DOMContentLoaded", function() {
     var start_stop =  document.getElementById("start-stop");
     var reset_lap = document.getElementById("reset-lap");
